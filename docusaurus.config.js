@@ -14,12 +14,12 @@ const config = {
   url: 'https://mydocusaurio.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/mydocusaurio/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'waltherx', // Usually your GitHub org/user name.
-  projectName: 'mydocusaurio.github.io', // Usually your repo name.
+  projectName: 'mydocusaurio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
