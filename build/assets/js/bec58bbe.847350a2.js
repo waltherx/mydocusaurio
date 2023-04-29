@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_galle=self.webpackChunkmy_galle||[]).push([[7027],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
